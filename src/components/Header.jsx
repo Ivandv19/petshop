@@ -11,7 +11,7 @@ import { Link } from "react-router-dom"
 const Header = () => {
     return (
         // Define la etiqueta header con clases para aplicar estilos específicos
-        <header className="header container">
+        <header className="header_container">
             {/* Contenedor para el ícono de menú hamburguesa */}
             <div className="menu-hamburguer">
                 <span className="menu-hamburguer__icon"></span>
