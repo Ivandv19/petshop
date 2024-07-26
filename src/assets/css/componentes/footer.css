@@ -5,6 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 42.5px ;
+    padding: 50px ;
     color: white;
+    text-align: center;
+    line-height: 20px;
 }
