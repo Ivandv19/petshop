@@ -6,6 +6,8 @@
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   height: 4.75rem;
+  position: fixed;
+  top: 0;
 }
 
 .menu-hamburguer {
