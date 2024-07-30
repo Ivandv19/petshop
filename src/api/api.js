@@ -2,7 +2,7 @@ export const buscar = async (url, setData) => {
     // Función asíncrona para recuperar datos de una API
     try {
       // Se realiza la solicitud GET a la URL especificada
-      const response = await fetch(`http://localhost:5000${url}`);
+      const response = await fetch(`https://my-json-server.typicode.com/Ivanmx19/api_info_petshop${url}`);
   
       // Se comprueba si la respuesta fue exitosa (código de estado 200-299)
       if (!response.ok) {
