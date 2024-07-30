@@ -7,10 +7,14 @@ body {
   color: var(--contrast-dark-color);
   font-family: var(--font-family-body);
 }
+main{
+  margin: 130px 0 25px 0;
+}
 
 .container {
   padding-right: 1rem;
   padding-left: 1rem;
+
 }
 
 .flex {
@@ -35,9 +39,10 @@ body {
   border-radius: 10px;
   box-shadow: var(--shadow);
   height: 4.75rem;
-  margin-top: 1.25rem;
   margin-bottom: 2rem;
+  margin-top: 1.25rem;
   padding-left: 2rem;
+
 }
 
 @media (min-width: 800px) {
