@@ -9,19 +9,19 @@ import { useEffect } from "react"
 // Define el componente funcional Post
 const Post = ({ url }) => {
     // Declara el estado 'post' con un objeto vacío como valor inicial
-  
+
     const [post, setPost] = useState({})
 
     // Obtiene el parámetro de ruta 'id' usando useParams
     const { id } = useParams()
-    
+
     // Obtiene la función 'navigate' de useNavigate para la navegación programática
     const navigate = useNavigate()
 
 
     // Usa el hook useEffect para realizar una acción cuando cambie el 'id' o al montar el componente
     useEffect(() => {
-      
+
         // Llama a la función buscar para obtener los detalles del post usando el 'id' y actualiza el estado
         buscar(`/posts/${id}`, setPost)
             .catch(() => {
