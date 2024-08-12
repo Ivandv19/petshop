@@ -7,7 +7,8 @@ body {
   color: var(--contrast-dark-color);
   font-family: var(--font-family-body);
 }
-main{
+
+main {
   margin: 130px 0 25px 0;
   width: 100%;
   height: auto;
@@ -52,7 +53,8 @@ main{
     padding-right: 2.5rem;
     padding-left: 2.5rem;
   }
-  main{
+
+  main {
     width: 100%;
     height: auto;
   }
@@ -63,7 +65,8 @@ main{
     padding-left: calc((100vw - 900px) / 2);
     padding-right: calc((100vw - 900px) / 2);
   }
-  main{
+
+  main {
     width: 100%;
     height: auto;
   }

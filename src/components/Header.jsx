@@ -16,7 +16,6 @@ const Header = () => {
             <div className="menu-hamburguer">
                 <span className="menu-hamburguer__icon"></span>
             </div>
-
             {/* Contenedor principal del header */}
             <div className="header-container">
                 {/* Enlace que redirige a la página principal */}
@@ -27,7 +26,6 @@ const Header = () => {
                     <h1 className="header__title">Petshop</h1>
                 </Link>
             </div>
-
             {/* Navegación del header */}
             <nav className="menu-header">
                 {/* Lista de elementos del menú */}
@@ -39,7 +37,6 @@ const Header = () => {
                     <li><Link className="menu-item" to="/sobre">Sobre</Link></li>
                 </ul>
             </nav>
-
             {/* Fondo del menú header */}
             <div className="menu-header-background"></div>
         </header>

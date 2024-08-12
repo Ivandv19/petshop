@@ -14,7 +14,7 @@ const Home = () => {
       </div>
 
       {/* Renderiza el componente ListCategories para mostrar las categorías */}
-      <ListCategories/>
+      <ListCategories />
 
       {/* Renderiza el componente ListPosts para mostrar los posts */}
       <ListPosts url={"/posts"} />

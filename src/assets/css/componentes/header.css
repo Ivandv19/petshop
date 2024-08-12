@@ -104,7 +104,7 @@
   transition: 0.25s;
 }
 
-.menu-header--ativo + .menu-header-background {
+.menu-header--ativo+.menu-header-background {
   left: 0;
 }
 
@@ -115,7 +115,7 @@
     justify-content: space-around;
     gap: 0;
 
-    
+
   }
 
   .menu-hamburguer {

@@ -11,7 +11,6 @@ const Page404 = () => {
         <main className="container flex flex--center flex--column">
             {/* Imagen de un perro */}
             <img className="dog-image" src={image} alt="Doguito" />
-
             {/* Mensaje de texto indicando que la página no existe */}
             <p className="notfound-text">Esta página no existe</p>
         </main>

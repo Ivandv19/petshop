@@ -10,7 +10,6 @@ const Sobre = () => {
         {/* Título de la página */}
         <h2 className="title-page">Sobre Doguito</h2>
       </div>
-
       {/* Sección que contiene el contenido principal */}
       <section className="container flex flex--center">
         {/* Artículo que describe el propósito del blog */}
