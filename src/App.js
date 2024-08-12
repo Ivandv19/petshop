@@ -1,10 +1,9 @@
 // Importa los estilos CSS base y componentes necesarios
-import './assets/css/base/base.css';
-import './assets/css/componentes/card.css'
-import Header from './components/Header'
-import Footer from './components/Footer'
-import { Outlet } from 'react-router-dom';
-
+import "./assets/css/base/base.css";
+import "./assets/css/componentes/card.css";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import { Outlet } from "react-router-dom";
 
 // Define el componente funcional App
 function App() {
@@ -14,7 +13,6 @@ function App() {
       <Outlet />
       <Footer />
     </>
-
   );
 }
 

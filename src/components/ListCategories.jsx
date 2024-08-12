@@ -27,7 +27,7 @@ const ListCategories = () => {
     return (
 
         <ul className="category-list container flex">
-            
+
             {
                 // Mapea sobre el array de categorías y crea un enlace y un elemento de lista para cada una
                 categories.map(category => (
@@ -40,6 +40,10 @@ const ListCategories = () => {
                 ))
             }
         </ul>
+
+
+
+
     )
 }
 

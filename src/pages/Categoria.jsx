@@ -44,7 +44,7 @@ const Categoria = () => {
 
     // Renderiza el componente Categoria
     return (
-        <>
+        <main>
             <div className='container'>
                 <h2 className='title-page'>Pet Noticias</h2>
             </div>
@@ -75,7 +75,7 @@ const Categoria = () => {
                 <Route path='/:subcategoria' element={<SubCategoria />} />
             </Routes>
 
-        </>
+        </main>
     )
 }
 
