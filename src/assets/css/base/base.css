@@ -15,8 +15,12 @@ main {
 }
 
 .container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
   padding-right: 1rem;
   padding-left: 1rem;
+  box-sizing: border-box;
 
 }
 
@@ -45,25 +49,29 @@ main {
   margin-bottom: 2rem;
   margin-top: 1.25rem;
   padding-left: 2rem;
+  width: 70%;
+  box-sizing: border-box;
 
 }
 
 @media (max-width: 599px) {
   .container {
-    padding-right: 2.5rem;
-    padding-left: 2.5rem;
+    box-sizing: border-box;
+    width: 100%;
   }
 
   main {
     width: 100%;
     height: auto;
   }
+  .title-page{
+    width: 100%;
+  }
 }
 
 @media (min-width: 600px) and (max-width: 1199px) {
   .container {
-    padding-left: calc((100vw - 900px) / 2);
-    padding-right: calc((100vw - 900px) / 2);
+    box-sizing: border-box;
   }
 
   main {

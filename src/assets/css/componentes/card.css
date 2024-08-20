@@ -60,9 +60,13 @@
 
 @media (min-width: 900px) {
   .posts {
-    align-items: stretch;
+    width: 100%;
+    height: auto;
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    padding: 20px 300px;
+    box-sizing: border-box;
   }
 }
