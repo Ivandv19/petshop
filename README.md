@@ -18,38 +18,27 @@ Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permit
 
 ## Tecnologías Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- React
-- JSON Server
-- Node.js
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **My JSON Server**
+- **Node.js**
 
 ## Instalación
 
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando Git.
-
-   ```bash
-    git clone https://github.com/Ivanmx19/petshop.git
-    ```
+```bash
+   git clone https://github.com/Ivanmx19/petshop.git
+```
 2. **Instalar Dependencias:** Navega al directorio del proyecto y ejecuta:
-
-   ```bash
-    npm install
-   ```
-
-3. **Iniciar la Base de Datos con JSON Server:**
-
-   Si estás utilizando JSON Server para simular una API, asegúrate de tener el archivo db.json en la raíz del proyecto (o en la ubicación correspondiente). Luego, ejecuta el siguiente comando para iniciar el servidor JSON:
-
-   ```bash
-    json-server --watch db.json --port 3000
-   ``` 
-
+```bash
+   npm install
+```
 3. **Iniciar el Proyecto:** Ejecuta el proyecto localmente con:
-   ```bash
+```bash
    npm start
-   ```
+```
 
 ## Créditos
 - Este proyecto fue desarrollado como parte de un ejercicio de desarrollo web.
