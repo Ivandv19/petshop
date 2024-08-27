@@ -11,7 +11,7 @@ Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permit
 
 ## Uso
 
-1. **Visualización del Proyecto:** Instala el repositorio de manera local y abre el archivo `index.html` en tu navegador web o visita el enlace desplegado en [Vercel](https://petshop-kappa-ten.vercel.app/).
+1. **Visualización del Proyecto:** Para visualizar el proyecto, sigue los pasos que se encuentran en la sección [Instalación](#instalación) o visita el enlace desplegado en [Vercel](https://petshop-kappa-ten.vercel.app/).
 2. **Explorar Categorías:** Utiliza la sección de categorías para navegar entre diferentes temas.
 3. **Leer Posts:** Haz clic en un post para ver su contenido completo.
 4. **Navegar entre Subcategorías:** Explora subcategorías específicas dentro de cada categoría para encontrar posts más detallados.
