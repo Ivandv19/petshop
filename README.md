@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Contenidos para Mascotas
+# Petshop
 
 Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permite la visualización de posts categorizados y la navegación a través de diferentes categorías y subcategorías relacionadas con el bienestar y el comportamiento de las mascotas.
 
@@ -18,12 +18,12 @@ Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permit
 
 ## Tecnologías Utilizadas
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **My JSON Server**
-- **Node.js**
+- HTML
+- CSS
+- JavaScript
+- React
+- My JSON Server
+- Node.js
 
 ## Instalación
 
