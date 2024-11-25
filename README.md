@@ -1,5 +1,7 @@
 # Petshop
 
+## Descripción
+
 Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permite la visualización de posts categorizados y la navegación a través de diferentes categorías y subcategorías relacionadas con el bienestar y el comportamiento de las mascotas.
 
 ## Características
