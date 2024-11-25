@@ -52,3 +52,10 @@ npm start
 ## Licencia
 - Este proyecto está bajo la Licencia MIT.
 
+## Imagen
+
+![petshop](https://github.com/user-attachments/assets/02636a68-1c8e-4955-98d5-8b8d3fb76f07)
+
+## Proyecto En Portafolio Web ##6
+
+-Este proyecto es parte de los proyectos mostrados en mi portafolio web
