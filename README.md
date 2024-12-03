@@ -55,7 +55,7 @@ npm start
 
 ## Despliegue
 
-- El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [petshop](https://petshop-kappa-ten.vercel.app/).
+- El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [petshop]( https://petshop-kappa-ten.vercel.app/ ).
 
 ## Licencia
 
@@ -63,7 +63,7 @@ npm start
 
 ## Imagen
 
-![petshop](https://github.com/user-attachments/assets/02636a68-1c8e-4955-98d5-8b8d3fb76f07)
+![petshop]( https://github.com/user-attachments/assets/02636a68-1c8e-4955-98d5-8b8d3fb76f07 )
 
 ## Proyecto En Portafolio Web ##6
 
