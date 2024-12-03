@@ -21,7 +21,6 @@ main {
   padding-right: 1rem;
   padding-left: 1rem;
   box-sizing: border-box;
-
 }
 
 .flex {
@@ -51,7 +50,6 @@ main {
   padding-left: 2rem;
   width: 70%;
   box-sizing: border-box;
-
 }
 
 @media (max-width: 599px) {
@@ -64,7 +62,7 @@ main {
     width: 100%;
     height: auto;
   }
-  .title-page{
+  .title-page {
     width: 100%;
   }
 }

@@ -1,8 +1,8 @@
 // Importa el componente ListPosts desde su ubicación
-import ListPosts from "../components/ListPost"
+import ListPosts from "../components/ListPost";
 
 // Importa el componente ListCategories desde su ubicación
-import ListCategories from "../components/ListCategories"
+import ListCategories from "../components/ListCategories";
 
 // Define el componente funcional Home
 const Home = () => {
@@ -19,8 +19,8 @@ const Home = () => {
       {/* Renderiza el componente ListPosts para mostrar los posts */}
       <ListPosts url={"/posts"} />
     </main>
-  )
-}
+  );
+};
 
 // Exporta el componente Home para poder ser utilizado en otras partes de la aplicación
-export default Home
+export default Home;

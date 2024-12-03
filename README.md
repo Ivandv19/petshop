@@ -30,33 +30,40 @@ Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permit
 ## Instalación
 
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando Git.
+
 ```bash
 git clone https://github.com/Ivanmx19/petshop.git
 ```
+
 2. **Instalar Dependencias:** Navega al directorio del proyecto y ejecuta:
+
 ```bash
 npm install
 ```
+
 3. **Iniciar el Proyecto:** Ejecuta el proyecto localmente con:
+
 ```bash
 npm start
 ```
 
 ## Créditos
+
 - Este proyecto fue desarrollado como parte de un ejercicio de desarrollo web.
 - Desarrollado por [Alura Latam](https://www.linkedin.com/company/alura-latam/).
 - Desarrollado por [Ivan Cruz](https://www.linkedin.com/in/ivan-cruz-1906mx/).
 
 ## Despliegue
 
-- El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [petshop]( https://petshop-kappa-ten.vercel.app/ ).
+- El sitio web está desplegado en Vercel y se puede acceder a través del siguiente enlace: [petshop](https://petshop-kappa-ten.vercel.app/).
 
 ## Licencia
+
 - Este proyecto está bajo la Licencia MIT.
 
 ## Imagen
 
-![petshop]( https://github.com/user-attachments/assets/02636a68-1c8e-4955-98d5-8b8d3fb76f07 )
+![petshop](https://github.com/user-attachments/assets/02636a68-1c8e-4955-98d5-8b8d3fb76f07)
 
 ## Proyecto En Portafolio Web ##6
 
