@@ -1,5 +1,8 @@
 # Petshop
 
+[![wakatime](https://wakatime.com/badge/github/Ivandv19/petshop.svg)](https://wakatime.com/badge/github/Ivandv19/petshop)
+[![wakatime](https://wakatime.com/badge/user/c585b1da-c687-4d3b-89c1-72901e86fb52/project/0a2abfda-b4b3-4456-a930-90bcfbfc32ba.svg)](https://wakatime.com/badge/user/c585b1da-c687-4d3b-89c1-72901e86fb52/project/0a2abfda-b4b3-4456-a930-90bcfbfc32ba)
+
 ## Descripción
 
 Este es un proyecto de gestión de contenido para un blog sobre mascotas. Permite la visualización de posts categorizados y la navegación a través de diferentes categorías y subcategorías relacionadas con el bienestar y el comportamiento de las mascotas.
